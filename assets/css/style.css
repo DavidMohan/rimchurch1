@@ -1,0 +1,42 @@
+body {
+    background-color: #e5e5e5;
+    font-family: 'Poppins', sans-serif;
+}
+.welcome-to-rim {
+    color: #003049;
+    padding: 50px 0;
+}
+.nav-size {
+    padding: 15px 10px;
+    background-color: #fca311;
+    justify-content: flex-end;
+}
+.navbar-light {
+    border: 2px solid rgba(0, 0, 0, 0.6);
+}
+.logo {
+    color: #003049;
+    font-weight: 600;
+    font-size: 22px;
+}
+.logo:hover {
+    color: #fff;
+    transition: 0.3s ease-in;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.text-color {
+    color: #003049;
+    font-size: 16px;
+}
+.text-color:hover {
+    color: #fff;
+}
+/* .active {
+    color: #fff;
+} */
+.none-pad{
+    padding: 0;
+}
+
